@@ -1,6 +1,4 @@
-Databse Project Fall 2022 : Dan Moraru 2138261, Manil Hammadouche 2043602, Marko Litovchenko 2133905
-
-GitLab: https://gitlab.com/Manhmd/databaseproject
+Final Database 2 Project - Done with 2 other teamates
 
 Steps: 
 Open SQL Developer and connect to your account
